@@ -1,3 +1,5 @@
+
+![](https://img.shields.io/badge/<TICK_TICK>-<0800ff>?labelColor=<0800ff)
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=hahaha-ymer&label=TICK%20TICK&color=0800ff&style=flat" alt="hahaha-ymer" /> 
 <p align="center">
